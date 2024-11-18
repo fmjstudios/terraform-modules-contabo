@@ -1,17 +1,6 @@
 <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" alt="Terraform Logo" align="right" height="227" width="200"/>
 
-# Terraform Modules - _Contabo_
+# Terraform Modules - Contabo
 
-Terraform modules for _Contabo_.
-
-## ⚡️ Quickstart
-
-__TBA__
-
-## 🧩 Modules
-
-__TBA__
-
-## ⚠️ Notes
-
-__TBA__
+> [!CAUTION]
+> NOTE: This repository contains untested Terraform modules, once used to interface with Contabo. There should be no real reason to use these.
